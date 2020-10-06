@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/btlxPWMYhAHpBOcMkR110hx6TqfUuTxSbIL4iBk03/H++5SzZ4S1bH1Tef23aB3rkc9XW+ZH02KS9JnjzYSA==",
+  "success": true,
+  "projectFilePath": "C:\\devbuild\\Week15\\Lab16.2TypeScript\\Lab16.2TypeScript\\Lab16.2TypeScript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kpidek\\.nuget\\packages\\microsoft.typescript.msbuild\\4.0.3\\microsoft.typescript.msbuild.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
